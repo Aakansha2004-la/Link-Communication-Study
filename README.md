@@ -7,4 +7,4 @@ This Simulink model calculates and simulates the dynamics of a satellite in a ci
 
 ## Results
 The simulation confirms a constant gravitational acceleration of approximately 7,910 m/s² for an orbit at 400 km altitude.
-
+[!Screenshot(106).png]
